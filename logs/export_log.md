@@ -1,0 +1,34 @@
+
+## Backup 2026-04-16 15:28
+- 📋 Template SOP Engineering
+- engineering-responsibilities
+- sop-en-013-udara-tekan
+- sop-en-001-lampu-listrik
+- SOP-EBI-EN-003.03  Perawatan Gedung dan Infrastruktur
+- building-maintenance-overview
+- maintenance-types
+- sop-en-016-hvac
+- sop-en-005-suku-cadang
+- damage-classification
+- sop-en-004-perawatan-mesin
+- machine-repair-workflow
+- SOP-EBI-EN-015-F01H Pemantauan Harian Terhadap Generator Air Murni dan Distribusi Skidnya (2)
+- SOP-EBI-EN-004.02 Perawatan terhadap mesin - Copy
+- index
+- sop-en-015-pure-water-form
+- SOP-EBI-EN-004.02 Perawatan terhadap mesin
+- spare-parts-management
+- SOP-EBI-EN-014.01 Penanganan Perbaikan Terhadap Semua Mesin-mesin di PT  Etana Biotechnologies Indonesia
+- compressed-air-system
+- sop-en-003-perawatan-gedung
+- pje-permintaan-jasa-engineering
+- hvac-system
+- Test Integrasi ke obsidian
+- log
+- Test Integrasi ke obsidian
+- sop-en-014-perbaikan-mesin
+- compressed-air-system
+- SOP-EBI-EN-016.07 Pengoperasian Dan Perawatan Terhadap Sistem Ventilasi, Pemanas, Tata Udara
+- SOP-EBI-EN-005.03 Penyimpanan Dan Pengolahan Suku Cadang_OFC
+- hvac-system
+- electrical-system
