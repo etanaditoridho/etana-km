@@ -1,0 +1,37 @@
+name: Notion Wiki Backup
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Jalan tiap hari jam 08.00 WIB
+  workflow_dispatch:      # Bisa dijalankan manual juga
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dotenv
+
+      - name: Export Notion to Markdown
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python scripts/notion_export.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Notion Bot"
+          git config --global user.email "bot@techops.com"
+          git add wiki/ logs/
+          git diff --staged --quiet || git commit -m "chore: auto backup Notion wiki $(date +'%Y-%m-%d')"
+          git push
