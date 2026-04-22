@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-21 07:12
+**Exported:** 2026-04-22 07:12
 
 ---
 
@@ -62,9 +62,11 @@ Prosedur khusus berlaku untuk mesin yang perlu dipindahkan keluar area GMP untuk
 | F03B | Formulir Permintaan Barang (terkait PJE) |
 | F04B | Laporan Pekerjaan Vendor |
 | F05B | (sesuai sumber PDF) |
+## 📄 Lihat Dokumen Asli
+- SOP-EBI-EN-014.01 Penanganan Perbaikan Terhadap Semua Mesin-mesin.pdf
 ## Related pages
-- [[machine-repair-workflow]]
-- [[maintenance-types]]
-- [[pje-permintaan-jasa-engineering]]
-- [[spare-parts-management]]
-- [[engineering-responsibilities]]
+- Konsep: Jenis-Jenis Perawatan
+- Konsep: Alur Permintaan Jasa Engineering (PJE)
+- Konsep: Pengelolaan Suku Cadang
+- Konsep: Tanggung Jawab & RACI Engineering
+- Sintesis: Onboarding Guide Teknisi Engineering Baru

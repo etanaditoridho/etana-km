@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-21 07:12
+**Exported:** 2026-04-22 07:12
 
 ---
 
@@ -46,7 +46,9 @@ Mencakup gudang suku cadang di Departemen Engineering PT EBI.
 ### Sistem Kode Lokasi
 - Ruang penyimpanan: `R. part – R1 . A/B/C` (dari versi PDF sumber)
 - Pemantauan inventori: jadwal Senin/Rabu/Jumat
+## 📄 Lihat Dokumen Asli
+- SOP-EBI-EN-005.03 Penyimpanan Dan Pengolahan Suku Cadang.pdf
 ## Related pages
-- [[spare-parts-management]]
-- [[machine-repair-workflow]]
-- [[engineering-responsibilities]]
+- Konsep: Pengelolaan Suku Cadang
+- Konsep: Tanggung Jawab & RACI Engineering
+- Konsep: Jenis-Jenis Perawatan

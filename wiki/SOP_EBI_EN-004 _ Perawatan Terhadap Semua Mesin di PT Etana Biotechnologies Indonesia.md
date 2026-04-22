@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-21 07:12
+**Exported:** 2026-04-22 07:12
 
 ---
 
@@ -36,8 +36,11 @@ Digunakan Departemen Engineering untuk perawatan mesin utility, produksi, wareho
 | Autonomous Maintenance | Perawatan mandiri oleh operator mesin; deteksi dini kejanggalan |
 ## Prosedur Pengawasan Libur Panjang
 Mesin dan alat utility tetap diawasi selama libur panjang sesuai jadwal yang ditetapkan Supervisor Engineering.
+## 📄 Lihat Dokumen Asli
+- SOP-EBI-EN-004.02 Perawatan terhadap mesin.pdf
 ## Related pages
-- [[maintenance-types]]
-- [[machine-repair-workflow]]
-- [[spare-parts-management]]
-- [[engineering-responsibilities]]
+- Konsep: Jenis-Jenis Perawatan
+- Konsep: Pengelolaan Suku Cadang
+- Konsep: Tanggung Jawab & RACI Engineering
+- Konsep: Alur Permintaan Jasa Engineering (PJE)
+- Sintesis: Onboarding Guide Teknisi Engineering Baru

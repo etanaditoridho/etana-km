@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-21 07:12
+**Exported:** 2026-04-22 07:12
 
 ---
 
@@ -48,7 +48,11 @@ Digunakan Departemen Engineering khususnya teknisi Utility.
 - **L3**: interval bulanan
 - **L4**: interval tahunan/semi-tahunan
 (Detail parameter monitoring numerik dan prosedur start/stop per equipment terdapat di sumber PDF Rev.04)
+## 📄 Lihat Dokumen Asli
+- SOP-EBI-EN-013 Pengoperasian Dan Perawatan Terhadap Sistem Udara Tekan.pdf
 ## Related pages
-- [[compressed-air-system]]
-- [[maintenance-types]]
-- [[engineering-responsibilities]]
+- Konsep: Sistem Udara Tekan
+- Konsep: Jenis-Jenis Perawatan
+- Konsep: Tanggung Jawab & RACI Engineering
+- Sintesis: Daily Monitoring Checklist Semua Sistem
+- Sintesis: Prosedur Emergency Shutdown Fasilitas

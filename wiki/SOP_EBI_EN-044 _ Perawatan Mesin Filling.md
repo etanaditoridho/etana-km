@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-21 07:12
+**Exported:** 2026-04-22 07:12
 
 ---
 
@@ -37,9 +37,10 @@ Digunakan Departemen Engineering khususnya untuk teknisi sebagai pedoman perawat
 | WFI (Water For Injection) | Air murni bebas pirogen; diperoleh dari distilasi air murni (feed water) |
 ## Konteks
 Mesin Filling Tofflon berada di area produksi lantai 1 PT EBI. SOP ini adalah versi pertama (Revision 01) yang mencakup prosedur PM komprehensif untuk mesin ini.
+## 📄 Lihat Dokumen Asli
+- SOP-EBI-EN-044.01 Perawatan Terhadap mesin Filling Tofflon.pdf
 ## Related pages
-- [[machine-repair-workflow]]
-- [[maintenance-types]]
-- [[spare-parts-management]]
-- [[sop-en-024-filling-bosch]]
-- [[engineering-responsibilities]]
+- Konsep: Jenis-Jenis Perawatan
+- Konsep: Pengelolaan Suku Cadang
+- Konsep: Tanggung Jawab & RACI Engineering
+- SOP/EBI/EN-024 — Perawatan Mesin Filling Bosch FXS 2051

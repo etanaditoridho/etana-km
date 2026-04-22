@@ -149,3 +149,16 @@
 - SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
 - SOP/EBI/EN-044 — Perawatan Mesin Filling
 - SOP/EBI/EN-004 — Perawatan Terhadap Semua Mesin di PT Etana Biotechnologies Indonesia
+
+## Backup 2026-04-22 07:12
+- SOP/EBI/EN-014 — Penanganan dan Perbaikan Semua Mesin di PT Etana Biotechnologies Indonesia
+- SOP/EBI/EN-013 — Pengoperasian dan Perawatan Sistem Udara Tekan
+- SOP/EBI/EN-016 — Pengoperasian dan Perawatan Sistem HVAC
+- SOP/EBI/EN-024 — Perawatan Mesin Filling Bosch FXS 2051
+- SOP/EBI/EN-005 — Penyimpanan dan Pengelolaan Suku Cadang
+- SOP/EBI/EN-003 — Perawatan Gedung & Infrastruktur
+- SOP/EBI/EN-055 — Pengoperasian dan Perawatan Sistem EMS & BMS
+- SOP/EBI/EN-001 — Penanganan dan Perawatan Lampu Penerangan & Sistem Penyaluran Listrik
+- SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
+- SOP/EBI/EN-044 — Perawatan Mesin Filling
+- SOP/EBI/EN-004 — Perawatan Terhadap Semua Mesin di PT Etana Biotechnologies Indonesia

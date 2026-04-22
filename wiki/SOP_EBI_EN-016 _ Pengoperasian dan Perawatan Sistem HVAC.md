@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-21 07:12
+**Exported:** 2026-04-22 07:12
 
 ---
 
@@ -46,8 +46,12 @@ Digunakan Departemen Engineering khususnya teknisi HVAC. Mencakup semua sistem H
 - Kelembaban (RH)
 ## Konteks GMP
 Sistem HVAC kritis untuk mendukung proses produksi farmasi steril. Semua parameter harus sesuai standar GMP yang berlaku.
+## 📄 Lihat Dokumen Asli
+- SOP-EBI-EN-016.07 Pengoperasian Dan Perawatan Terhadap Sistem HVAC.pdf
 ## Related pages
-- [[hvac-system]]
-- [[maintenance-types]]
-- [[engineering-responsibilities]]
-- [[pje-permintaan-jasa-engineering]]
+- Konsep: Sistem HVAC
+- Konsep: Jenis-Jenis Perawatan
+- Konsep: Tanggung Jawab & RACI Engineering
+- Konsep: Alur Permintaan Jasa Engineering (PJE)
+- Sintesis: Daily Monitoring Checklist Semua Sistem
+- Sintesis: Prosedur Emergency Shutdown Fasilitas

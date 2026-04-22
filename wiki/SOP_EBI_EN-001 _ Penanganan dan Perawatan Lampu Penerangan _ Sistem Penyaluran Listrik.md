@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-21 07:12
+**Exported:** 2026-04-22 07:12
 
 ---
 
@@ -48,7 +48,11 @@ Berlaku untuk seluruh teknisi K3 listrik dan ahli K3 listrik PT EBI. Mencakup:
 - Memastikan keselamatan kerja seluruh personel
 - Meminimalkan risiko kegagalan sistem yang mengganggu produksi
 - Melindungi keselamatan dan kesehatan tenaga kerja dari bahaya listrik
+## 📄 Lihat Dokumen Asli
+- SOP-EBI-EN-001.02 Penanganan dan Perawatan Terhadap Lampu Penerangan dan Sistem Penyaluran Tenaga Listrik.pdf
 ## Related pages
-- [[electrical-system]]
-- [[engineering-responsibilities]]
-- [[maintenance-types]]
+- Konsep: Sistem Kelistrikan
+- Konsep: Tanggung Jawab & RACI Engineering
+- Konsep: Jenis-Jenis Perawatan
+- Sintesis: Prosedur Emergency Shutdown Fasilitas
+- Sintesis: Daily Monitoring Checklist Semua Sistem
