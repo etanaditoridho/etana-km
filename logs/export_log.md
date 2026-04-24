@@ -175,3 +175,30 @@
 - SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
 - SOP/EBI/EN-044 — Perawatan Mesin Filling
 - SOP/EBI/EN-004 — Perawatan Terhadap Semua Mesin di PT Etana Biotechnologies Indonesia
+
+## Backup 2026-04-24 07:19
+- 📚 Concept: Sistem HVAC — Konsep & Komponen
+- SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
+- SOP/EBI/EN-001 — Penanganan dan Perawatan Lampu Penerangan & Sistem Penyaluran Listrik
+- 📚 Concept: Manajemen Suku Cadang Engineering
+- SOP/EBI/EN-014 — Penanganan dan Perbaikan Semua Mesin di PT Etana Biotechnologies Indonesia
+- SOP/EBI/EN-044 — Perawatan Mesin Filling
+- SOP/EBI/EN-013 — Pengoperasian dan Perawatan Sistem Udara Tekan
+- 🔗 Synthesis: Prosedur Emergency Shutdown
+- 🔗 Synthesis: Monitoring Harian Sistem Engineering
+- SOP/EBI/EN-005 — Penyimpanan dan Pengelolaan Suku Cadang
+- 📍 Finding: TEST — Kompresor trip saat suhu ambient tinggi
+- SOP/EBI/EN-016 — Pengoperasian dan Perawatan Sistem HVAC
+- 📚 Concept: Sistem Kelistrikan — Konsep & Komponen
+- SOP/EBI/QA-004 — Manajemen Perubahan
+- SOP/EBI/EN-003 — Perawatan Gedung & Infrastruktur
+- 📚 Concept: Jenis-Jenis Perawatan Mesin
+- SOP/EBI/EN-055 — Pengoperasian dan Perawatan Sistem EMS & BMS
+- 📚 Concept: Sistem Udara Tekan — Konsep & Komponen
+- 📚 Concept: Matriks Tanggung Jawab Engineering
+- SOP/EBI/QA-008 — Penanganan Penyimpangan
+- SOP/EBI/QA-035 — Penanganan dan Manajemen CAPA
+- SOP/EBI/EN-024 — Perawatan Mesin Filling Bosch FXS 2051
+- SOP/EBI/EN-004 — Perawatan Terhadap Semua Mesin di PT Etana Biotechnologies Indonesia
+- 🔗 Synthesis: Onboarding Teknisi Engineering Baru
+- 📚 Concept: PJE — Permintaan Jasa Engineering

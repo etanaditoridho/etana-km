@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-23 07:14
+**Exported:** 2026-04-24 07:19
 
 ---
 
@@ -42,12 +42,8 @@ Digunakan Departemen Engineering khususnya teknisi EMS & BMS. Mencakup sistem pe
 - Semua kegiatan didokumentasikan di Formulir Perawatan Berkala EMS dan BMS No. SOP/EBI/ENG-055-F01
 ## Catatan
 SOP ini adalah versi pertama (Revision 00) — dokumen baru. Dibuat untuk mendukung sistem pemantauan gedung yang terintegrasi dengan sistem HVAC.
-## 📄 Lihat Dokumen Asli
-- SOP-EBI-EN-055.00 BMS EMS Final engineering.pdf
 ## Related pages
-- Konsep: Sistem HVAC
-- Konsep: Jenis-Jenis Perawatan
-- Konsep: Tanggung Jawab & RACI Engineering
-- SOP/EBI/EN-016 — Pengoperasian dan Perawatan Sistem HVAC
-- Sintesis: Daily Monitoring Checklist Semua Sistem
-- Sintesis: Prosedur Emergency Shutdown Fasilitas
+- [[hvac-system]]
+- [[maintenance-types]]
+- [[engineering-responsibilities]]
+- [[operasi-perawatan-hvac]]

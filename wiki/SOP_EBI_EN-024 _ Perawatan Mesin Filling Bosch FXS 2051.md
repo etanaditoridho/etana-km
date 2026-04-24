@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-23 07:14
+**Exported:** 2026-04-24 07:19
 
 ---
 
@@ -41,10 +41,8 @@ Digunakan Departemen Engineering sebagai pedoman perawatan mesin Filling Bosch F
 - Buang air kondensat dari Air Service Regulator (sistem pneumatik)
 ## Catatan Teknis
 Mesin Filling Bosch FXS 2051 digunakan untuk pengisian produk farmasi cair ke kemasan primer. Volume dalam kemasan primer harus akurat sesuai spesifikasi.
-## 📄 Lihat Dokumen Asli
-- SOP-EBI-EN-024.04 Perawatan Mesin Filling Bosch.pdf
 ## Related pages
-- Konsep: Jenis-Jenis Perawatan
-- Konsep: Pengelolaan Suku Cadang
-- Konsep: Tanggung Jawab & RACI Engineering
-- SOP/EBI/EN-044 — Perawatan Mesin Filling Tofflon
+- [[machine-repair-workflow]]
+- [[maintenance-types]]
+- [[spare-parts-management]]
+- [[engineering-responsibilities]]

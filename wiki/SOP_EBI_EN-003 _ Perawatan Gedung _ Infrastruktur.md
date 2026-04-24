@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-23 07:14
+**Exported:** 2026-04-24 07:19
 
 ---
 
@@ -45,10 +45,8 @@ Digunakan oleh Departemen Engineering sebagai pedoman perawatan dan perbaikan ge
 1. **Pembersihan plafon/langit-langit**: terjadwal, pakai APD
 ## Kepatuhan ISO 14001
 Prosedur pembersihan dan perawatan gedung mengacu pada persyaratan ISO 14001 (manajemen lingkungan).
-## 📄 Lihat Dokumen Asli
-- SOP-EBI-EN-003.03 Perawatan Gedung dan Infrastruktur.pdf
 ## Related pages
-- Konsep: Perawatan Gedung & Infrastruktur
-- Konsep: Alur Permintaan Jasa Engineering (PJE)
-- Konsep: Tanggung Jawab & RACI Engineering
-- Konsep: Jenis-Jenis Perawatan
+- [[building-maintenance-overview]]
+- [[damage-classification]]
+- [[pje-permintaan-jasa-engineering]]
+- [[engineering-responsibilities]]
