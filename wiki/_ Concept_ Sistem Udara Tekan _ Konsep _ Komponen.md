@@ -2,10 +2,16 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-24 07:19
+**Exported:** 2026-04-25 06:12
 
 ---
 
+## LLM Summary
+- System: Sistem Udara Tekan
+- Equipment: Kompresor, dryer, receiver tank, filter, distribusi udara tekan
+- Symptoms: []
+- Keywords: [udara tekan, kompresor, dryer, tekanan, kualitas udara, utility]
+- Severity: N/A
 **Summary**: Konsep teknis sistem udara tekan PT EBI meliputi klasifikasi udara, konfigurasi peralatan, standar kualitas, dan jadwal perawatan.
 **Sources**: `SOP-EBI-EN-013 Pengoperasian Dan Perawatan Terhadap Sistem Udara Tekan.pdf`
 **Last updated**: 2026-04-22
@@ -57,6 +63,7 @@ Kompressor dijalankan secara bergantian (rotasi harian) untuk pemerataan jam ope
 - Detail parameter monitoring numerik dan prosedur start/stop per equipment terdapat di SOP/EBI/EN-013 Rev.04
 ## Related pages
 - [[operasi-perawatan-udara-tekan]]
+- [[finding-kompresor-trip-suhu-tinggi]]
 - [[maintenance-types]]
 - [[engineering-responsibilities]]
 - [[synthesis-daily-monitoring]]

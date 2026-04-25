@@ -2,10 +2,16 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-04-24 07:19
+**Exported:** 2026-04-25 06:11
 
 ---
 
+## LLM Summary
+- System: Emergency Shutdown Lintas Sistem
+- Equipment: HVAC, kompresor, panel listrik, mesin produksi, chiller, pompa
+- Symptoms: [shutdown darurat, kegagalan sistem kritis, alarm, kebakaran, kebocoran, short circuit]
+- Keywords: [emergency shutdown, shutdown darurat, eskalasi, keselamatan, GMP, stop mesin]
+- Severity: High
 **Summary**: Sintesis prosedur penghentian darurat dan penanganan kegagalan sistem lintas semua SOP Engineering — HVAC, udara tekan, kelistrikan, dan mesin produksi.
 **Sources**: `SOP-EBI-EN-016.07`, `SOP-EBI-EN-013 Rev.04`, `SOP-EBI-EN-001.02`, `SOP-EBI-EN-014.01`, `SOP-EBI-EN-055.00`
 **Last updated**: 2026-04-22
@@ -100,9 +106,3 @@ Semua teknisi harus mengetahui urutan shutdown yang benar dan cara eskalasi yang
 - [[operasi-perawatan-hvac]]
 - [[operasi-perawatan-udara-tekan]]
 - [[penanganan-lampu-distribusi-listrik]]
-- [[penanganan-perbaikan-mesin]]
-- [[operasi-perawatan-bms-ems]]
-- [[hvac-system]]
-- [[electrical-system]]
-- [[compressed-air-system]]
-- [[maintenance-types]]
