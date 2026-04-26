@@ -231,3 +231,32 @@
 - Distillation of SOP/EBI/EN-003 — Perawatan Gedung & Infrastruktur
 - Distillation of SOP/EBI/EN-014 — Penanganan dan Perbaikan Semua Mesin di PT Etana Biotechnologies Indonesia
 - Distillation of SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
+
+## Backup 2026-04-26 07:11
+- Distillation of SOP/EBI/EN-016 — Pengoperasian dan Perawatan Sistem HVAC
+- Distillation of SOP/EBI/QA-035 — Penanganan dan Manajemen CAPA
+- Distillation of SOP/EBI/EN-004 — Perawatan Terhadap Semua Mesin di PT Etana Biotechnologies Indonesia
+- Distillation of SOP/EBI/EN-001 — Penanganan dan Perawatan Lampu Penerangan & Sistem Penyaluran Listrik
+- 📍 Finding: TEST — Kompresor trip saat suhu ambient tinggi
+- Distillation of SOP/EBI/EN-024 — Perawatan Mesin Filling Bosch FXS 2051
+- Distillation of SOP/EBI/EN-044 — Perawatan Mesin Filling
+- 📚 Concept: Sistem Kelistrikan — Konsep & Komponen
+- Distillation of HVAC Failure Diagnosis
+- Distillation of SOP/EBI/EN-055 — Pengoperasian dan Perawatan Sistem EMS & BMS
+- 📚 Concept: Matriks Tanggung Jawab Engineering
+- Distillation of Boiler Leak Response
+- 🔗 Synthesis: Prosedur Emergency Shutdown
+- Distillation of SOP/EBI/EN-013 — Pengoperasian dan Perawatan Sistem Udara Tekan
+- 📚 Concept: Manajemen Suku Cadang Engineering
+- 📚 Concept: Sistem HVAC — Konsep & Komponen
+- 🔗 Synthesis: Monitoring Harian Sistem Engineering
+- Distillation of SOP/EBI/QA-004 — Manajemen Perubahan
+- 🔗 Synthesis: Onboarding Teknisi Engineering Baru
+- 📚 Concept: PJE — Permintaan Jasa Engineering
+- 📚 Concept: Sistem Udara Tekan — Konsep & Komponen
+- Distillation of SOP/EBI/QA-008 — Penanganan Penyimpangan
+- Distillation of SOP/EBI/EN-005 — Penyimpanan dan Pengelolaan Suku Cadang
+- 📚 Concept: Jenis-Jenis Perawatan Mesin
+- Distillation of SOP/EBI/EN-003 — Perawatan Gedung & Infrastruktur
+- Distillation of SOP/EBI/EN-014 — Penanganan dan Perbaikan Semua Mesin di PT Etana Biotechnologies Indonesia
+- Distillation of SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
