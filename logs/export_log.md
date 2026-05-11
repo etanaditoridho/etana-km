@@ -670,3 +670,42 @@
 - Distillation of SOP/EBI/EN-014 — Penanganan dan Perbaikan Semua Mesin di PT Etana Biotechnologies Indonesia
 - Distillation of SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
 - 📋 Procedure: 🔬 Penanganan WFI TOC Out of Limit
+
+## Backup 2026-05-11 04:58
+- Distillation of SOP/EBI/EN-016 — Pengoperasian dan Perawatan Sistem HVAC
+- Distillation of SOP/EBI/QA-035 — Penanganan dan Manajemen CAPA
+- Distillation of SOP/EBI/EN-004 — Perawatan Terhadap Semua Mesin di PT Etana Biotechnologies Indonesia
+- Distillation of SOP/EBI/EN-001 — Penanganan dan Perawatan Lampu Penerangan & Sistem Penyaluran Listrik
+- 📍 Finding: TEST — Kompresor trip saat suhu ambient tinggi
+- Distillation of SOP/EBI/EN-044 — Perawatan Mesin Filling
+- 📚 Concept: Sistem Kelistrikan — Konsep & Komponen
+- Distillation of HVAC Failure Diagnosis
+- Distillation of SOP/EBI/EN-055 — Pengoperasian dan Perawatan Sistem EMS & BMS
+- 📚 Concept: Matriks Tanggung Jawab Engineering
+- Distillation of Boiler Leak Response
+- 🔗 Synthesis: Prosedur Emergency Shutdown
+- Distillation of SOP/EBI/EN-013 — Pengoperasian dan Perawatan Sistem Udara Tekan
+- 📚 Concept: Manajemen Suku Cadang Engineering
+- 📚 Concept: Sistem HVAC — Konsep & Komponen
+- 🔗 Synthesis: Monitoring Harian Sistem Engineering
+- Distillation of SOP/EBI/QA-004 — Manajemen Perubahan
+- 🔗 Synthesis: Onboarding Teknisi Engineering Baru
+- 📚 Concept: PJE — Permintaan Jasa Engineering
+- 📚 Concept: Sistem Udara Tekan — Konsep & Komponen
+- Distillation of SOP/EBI/QA-008 — Penanganan Penyimpangan
+- Distillation of SOP/EBI/EN-005 — Penyimpanan dan Pengelolaan Suku Cadang
+- 📚 Concept: Jenis-Jenis Perawatan Mesin
+- Distillation of Perawatan Gedung & Infrastruktur
+- Distillation of SOP/EBI/EN-014 — Penanganan dan Perbaikan Semua Mesin di PT Etana Biotechnologies Indonesia
+- Distillation of SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
+- 📋 Procedure: 🔬 Penanganan WFI TOC Out of Limit
+- Distillation of Sistem Pengelolaan dan Penyimpanan Pelumas dan Grease
+- Distillation of Logbook Pemantauan Harian Generator Air Murni dan Distribusi Skidnya
+- Distillation of Penanganan dan Perbaikan Terhadap Semua Mesin-Mesin di PT. Etana Biotechnologies Indonesia
+- Distillation of Pemantauan Harian Terhadap Generator Air Murni dan Distribusi Skidnya
+- Distillation of Perawatan Terhadap Mesin Filling
+- Distillation of Perawatan Terhadap Semua Mesin-Mesin di PT. Etana Biotechnologies Indonesia
+- Distillation of Perawatan Terhadap Mesin Filling Bosch FXS 2051
+- Distillation of Perawatan Terhadap Mesin Debagging Tofflon
+- Distillation of Pengoperasian dan Perawatan Terhadap Generator Set
+- Distillation of Penyimpanan dan Pengelolaan Suku Cadang
