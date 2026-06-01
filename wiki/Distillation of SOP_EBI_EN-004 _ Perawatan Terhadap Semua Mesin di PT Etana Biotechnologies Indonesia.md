@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["capa", "hvac", "maintenance", "onboarding"]
+---
 ## LLM Summary
 - System: Preventive Maintenance Mesin
 - Equipment: Mesin produksi, mesin utility, peralatan Engineering, label status
@@ -47,3 +50,7 @@ Mesin dan alat utility tetap diawasi selama libur panjang sesuai jadwal yang dit
 - [[penanganan-perbaikan-mesin]]
 - [[spare-parts-management]]
 - [[engineering-responsibilities]]
+- [[cross-functional/alur-mutu-qa-engineering]]
+- [[qa/manajemen-perubahan]]
+- [[qa/penanganan-deviasi]]
+- [[qa/manajemen-capa]]

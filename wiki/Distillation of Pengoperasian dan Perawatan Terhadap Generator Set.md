@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["deviation", "electrical", "maintenance", "monitoring", "onboarding", "water-system"]
+---
 **Summary**: Prosedur untuk pengoperasian dan perawatan Generator Set Perkins 1000 kVA sebagai backup listrik saat pemadaman PLN di PT. Etana Biotechnologies Indonesia.
 **SOP Number**: SOP/EBI/EN-002
 **Revision**: 02
@@ -93,9 +96,9 @@ PT. Etana Biotechnologies Indonesia mempunyai 2 unit Generator Set merk Perkins,
 1. Formulir Pemanasan Generator Set No. SOP/EBI/EN-002-F03C
 ## Related pages
 - [[electrical-system]]
-- [[building-maintenance-overview]]
+- [[engineering/perawatan-gedung-infrastruktur]]
 - [[maintenance-types]]
-- [[machine-repair-workflow]]
-- [[pje-permintaan-jasa-engineering]]
+- [[engineering/penanganan-perbaikan-mesin]]
+- [[engineering/permintaan-jasa-engineering]]
 - [[spare-parts-management]]
 - [[engineering-responsibilities]]

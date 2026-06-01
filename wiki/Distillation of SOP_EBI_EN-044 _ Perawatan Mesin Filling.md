@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["capa", "filling", "maintenance", "onboarding", "water-system"]
+---
 ## LLM Summary
 - System: Perawatan Mesin Filling
 - Equipment: Mesin Filling Tofflon, pompa peristaltik, P&P, stoppering, komponen filling
@@ -46,9 +49,9 @@ Mesin Filling Tofflon berada di area produksi lantai 1 PT EBI. SOP ini adalah ve
 ## Related pages
 - [[penanganan-perbaikan-mesin]]
 - [[preventive-maintenance-mesin]]
-- [[pje-permintaan-jasa-engineering]]
-- [[synthesis-emergency-shutdown]]
+- [[engineering/permintaan-jasa-engineering]]
+- [[engineering/emergency-shutdown]]
 - [[maintenance-types]]
 - [[spare-parts-management]]
-- [[perawatan-mesin-filling-bosch]]
+- [[engineering/mesin-filling-bosch]]
 - [[engineering-responsibilities]]

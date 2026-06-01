@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["maintenance", "onboarding"]
+---
 **Summary**: Panduan untuk menentukan langkah-langkah pembersihan, perapihan, perawatan dan perbaikan terhadap sarana bangunan dan infrastruktur sesuai standar bangunan terbaru.
 **SOP Number**: SOP/EBI/EN-003
 **Revision**: 03
@@ -92,8 +95,8 @@ Kegiatan mengembalikan barang sesuai dengan tempatnya. Kerapian adalah hal menge
 - SOP/EBI/EN-003-F02C: Formulir evaluasi kondisi bangunan
 - SOP/EBI/EN-003-F03B: Formulir kegiatan dan evaluasi kebersihan gedung
 ## Related pages
-- [[building-maintenance-overview]]
-- [[damage-classification]]
+- [[engineering/perawatan-gedung-infrastruktur]]
+- [[engineering/maintenance-types]]
 - [[maintenance-types]]
-- [[pje-permintaan-jasa-engineering]]
+- [[engineering/permintaan-jasa-engineering]]
 - [[engineering-responsibilities]]

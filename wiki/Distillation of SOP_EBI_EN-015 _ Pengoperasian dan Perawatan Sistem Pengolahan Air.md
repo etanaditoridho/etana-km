@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:01
 
 ---
 
+﻿---
+tags: ["deviation", "emergency", "hvac-bms", "maintenance", "monitoring", "onboarding", "water-system"]
+---
 ## LLM Summary
 - System: Sistem Pengolahan Air
 - Equipment: Water treatment system, alat ukur conductivity, TOC, boiler sanitasi
@@ -51,8 +54,8 @@ Digunakan Departemen Engineering khususnya operator Sistem Pengolahan Air.
 - [[maintenance-types]]
 - [[engineering-responsibilities]]
 - [[compressed-air-system]]
-- [[synthesis-daily-monitoring]]
-- [[synthesis-emergency-shutdown]]
-- [[pje-permintaan-jasa-engineering]]
+- [[engineering/monitoring-harian-engineering]]
+- [[engineering/emergency-shutdown]]
+- [[engineering/permintaan-jasa-engineering]]
 - [[spare-parts-management]]
-- [[boiler-leak-response]]
+- [[decision-support/respon-kebocoran-boiler]]

@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+---
+tags: ["maintenance", "monitoring", "onboarding", "spare-parts"]
+---
 ## LLM Summary
 - System: Pengelolaan Suku Cadang Engineering
 - Equipment: Suku cadang, gudang spare part, part code, stok critical part

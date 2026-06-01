@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["electrical", "hvac", "hvac-bms", "maintenance", "water-system"]
+---
 ## LLM Summary
 - System: HVAC
 - Equipment: AHU, FCU, exhaust fan, chiller, cooling tower, HWG, HEPA filter
@@ -49,7 +52,7 @@ Sistem HVAC adalah **sistem kritis** dalam produksi farmasi steril. Kegagalan si
 - Menyebabkan kontaminasi partikel pada produk
 - Memicu out-of-specification (OOS) kondisi lingkungan
 - Mengharuskan investigasi dan potensi reject batch produksi
-Semua parameter harus terdokumentasi dan dipantau secara real-time via [[operasi-perawatan-bms-ems|EMS/BMS]].
+Semua parameter harus terdokumentasi dan dipantau secara real-time via [[engineering/monitoring-bms-ems|EMS/BMS]].
 ## Integrasi dengan BMS/EMS
 BMS (Building Management System) mengintegrasikan kontrol dan monitoring sistem HVAC secara otomatis. EMS (Environmental Monitoring System) memantau parameter lingkungan kritis secara kontinu dan menghasilkan alert jika terjadi deviasi.
 ## Jadwal Perawatan
@@ -60,10 +63,10 @@ BMS (Building Management System) mengintegrasikan kontrol dan monitoring sistem 
 | Bulanan | Penggantian filter medium, kalibrasi sensor |
 | Tahunan/Semi-tahunan | Penggantian HEPA filter, overhaul chiller, cleaning cooling tower |
 ## Related pages
-- [[operasi-perawatan-hvac]]
-- [[operasi-perawatan-bms-ems]]
-- [[hvac-failure-diagnosis]]
-- [[boiler-leak-response]]
+- [[engineering/operasional-sistem-hvac]]
+- [[engineering/monitoring-bms-ems]]
+- [[decision-support/diagnosis-kegagalan-hvac]]
+- [[decision-support/respon-kebocoran-boiler]]
 - [[maintenance-types]]
 - [[engineering-responsibilities]]
-- [[synthesis-daily-monitoring]]
+- [[engineering/monitoring-harian-engineering]]

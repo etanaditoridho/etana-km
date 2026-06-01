@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["capa", "compressed-air", "hvac", "hvac-bms", "maintenance", "monitoring", "water-system"]
+---
 ## LLM Summary
 - System: Sistem Udara Tekan
 - Equipment: Kompresor, ventilasi ruang, filter udara, exhaust fan
@@ -32,6 +35,6 @@ Tambahkan monitoring suhu otomatis di ruang kompresor dan set alert di 33°C seb
 SOP/EBI/EN-013
 ## Related pages
 - [[compressed-air-system]]
-- [[operasi-perawatan-udara-tekan]]
+- [[engineering/operasional-udara-tekan]]
 - [[preventive-maintenance-mesin]]
-- [[synthesis-daily-monitoring]]
+- [[engineering/monitoring-harian-engineering]]

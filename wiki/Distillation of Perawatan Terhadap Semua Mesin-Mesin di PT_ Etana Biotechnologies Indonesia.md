@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["capa", "maintenance", "onboarding"]
+---
 **Summary**: Prosedur standar untuk perawatan preventif berkala dan pengawasan mesin-mesin produksi, utility, warehouse, QA dan QC, termasuk kartu riwayat mesin dan pengawasan selama libur panjang.
 **SOP Number**: SOP/EBI/EN-004
 **Revision**: 02
@@ -62,9 +65,9 @@ SOP ini digunakan oleh Departemen Engineering sebagai pedoman dalam melakukan pe
 - Formulir kartu riwayat mesin (SOP/EBI/EN-004-F03C)
 - Formulir daftar mesin/alat yang harus diawasi selama libur panjang (SOP/EBI/EN-004-F04C)
 ## Related pages
-- [[machine-repair-workflow]]
+- [[engineering/penanganan-perbaikan-mesin]]
 - [[maintenance-types]]
 - [[spare-parts-management]]
-- [[pje-permintaan-jasa-engineering]]
+- [[engineering/permintaan-jasa-engineering]]
 - [[engineering-responsibilities]]
-- [[building-maintenance-overview]]
+- [[engineering/perawatan-gedung-infrastruktur]]

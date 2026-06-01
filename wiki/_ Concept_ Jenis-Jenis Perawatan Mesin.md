@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["capa", "hvac", "maintenance", "monitoring", "onboarding"]
+---
 ## LLM Summary
 - System: Manajemen Perawatan Mesin
 - Equipment: Mesin produksi, utility equipment, komponen mesin
@@ -64,5 +67,5 @@
 - [[penanganan-perbaikan-mesin]]
 - [[engineering-responsibilities]]
 - [[spare-parts-management]]
-- [[pje-permintaan-jasa-engineering]]
-- [[synthesis-onboarding-teknisi]]
+- [[engineering/permintaan-jasa-engineering]]
+- [[engineering/onboarding-teknisi-engineering]]

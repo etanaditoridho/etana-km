@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["cold-chain", "compressed-air", "filling", "maintenance", "monitoring", "water-system"]
+---
 ## LLM Summary
 - System: Sistem Udara Tekan
 - Equipment: Kompresor, dryer, receiver tank, filter, distribusi udara tekan
@@ -62,8 +65,8 @@ Kompressor dijalankan secara bergantian (rotasi harian) untuk pemerataan jam ope
 - Jika terjadi kegagalan satu kompressor, unit lain mengambil alih beban
 - Detail parameter monitoring numerik dan prosedur start/stop per equipment terdapat di SOP/EBI/EN-013 Rev.04
 ## Related pages
-- [[operasi-perawatan-udara-tekan]]
+- [[engineering/operasional-udara-tekan]]
 - [[finding-kompresor-trip-suhu-tinggi]]
 - [[maintenance-types]]
 - [[engineering-responsibilities]]
-- [[synthesis-daily-monitoring]]
+- [[engineering/monitoring-harian-engineering]]

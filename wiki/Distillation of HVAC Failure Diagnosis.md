@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["electrical", "emergency", "hvac", "hvac-bms", "maintenance", "monitoring", "water-system"]
+---
 ## LLM Summary
 - System: HVAC / EMS-BMS
 - Equipment: AHU, FCU, chiller, pump, HEPA filter
@@ -18,7 +21,7 @@
 ---
 ## Decision Context
 Use this page when HVAC conditions are abnormal, including temperature deviation, RH instability, pressure differential issue, airflow reduction, BMS/EMS alarm, AHU/FCU malfunction, chiller alarm, or suspected HEPA/filter problem.
-This page does not replace [[operasi-perawatan-hvac]] or controlled SOP instructions. It helps route diagnosis across existing knowledge pages.
+This page does not replace [[engineering/operasional-sistem-hvac]] or controlled SOP instructions. It helps route diagnosis across existing knowledge pages.
 ## When to Use
 - Temperature deviation, RH instability, pressure differential issue, airflow reduction, or BMS/EMS alarm.
 - AHU/FCU malfunction, chiller alarm, or suspected HEPA/filter problem.
@@ -26,11 +29,11 @@ This page does not replace [[operasi-perawatan-hvac]] or controlled SOP instruct
 ## Triage
 | Question | If Yes | Reference |
 |---|---|---|
-| Is there immediate safety risk, smoke, burning smell, flooding, or electrical exposure? | Move to emergency response and escalation. | [[synthesis-emergency-shutdown]], [[electrical-system]] |
-| Is a classified production area affected? | Notify Supervisor Engineering and coordinate with QA. | [[hvac-system]], [[engineering-responsibilities]] |
-| Is BMS/EMS showing alarm or abnormal trend? | Compare current readings against normal monitoring pattern. | [[operasi-perawatan-bms-ems]], [[synthesis-daily-monitoring]] |
-| Is one local room affected only? | Check FCU, local airflow, filter, damper, and room-specific controls. | [[hvac-system]], [[operasi-perawatan-hvac]] |
-| Are multiple areas affected? | Check AHU, chiller, pumps, cooling tower, utilities, and BMS controls. | [[hvac-system]], [[maintenance-types]] |
+| Is there immediate safety risk, smoke, burning smell, flooding, or electrical exposure? | Move to emergency response and escalation. | [[engineering/emergency-shutdown]], [[engineering/electrical-system]] |
+| Is a classified production area affected? | Notify Supervisor Engineering and coordinate with QA. | [[engineering/hvac-system]], [[engineering/engineering-responsibilities]] |
+| Is BMS/EMS showing alarm or abnormal trend? | Compare current readings against normal monitoring pattern. | [[engineering/monitoring-bms-ems]], [[engineering/monitoring-harian-engineering]] |
+| Is one local room affected only? | Check FCU, local airflow, filter, damper, and room-specific controls. | [[engineering/hvac-system]], [[engineering/operasional-sistem-hvac]] |
+| Are multiple areas affected? | Check AHU, chiller, pumps, cooling tower, utilities, and BMS controls. | [[engineering/hvac-system]], [[engineering/maintenance-types]] |
 ## Diagnostic Cues
 | Symptom | Possible Failure Mode | First Checks |
 |---|---|---|
@@ -41,17 +44,17 @@ This page does not replace [[operasi-perawatan-hvac]] or controlled SOP instruct
 | Chiller or AHU alarm | Equipment fault or support utility issue | Alarm detail, load condition, shutdown criteria |
 ## Decision Flow
 1. Identify affected area, equipment, and parameter: temperature, RH, pressure differential, particle control, airflow, or ACH.
-1. Check BMS/EMS status and recent alarm history using [[operasi-perawatan-bms-ems]].
+1. Check BMS/EMS status and recent alarm history using [[engineering/monitoring-bms-ems]].
 1. Determine whether the issue is local equipment, central HVAC equipment, utility support, sensor/calibration, or control-system behavior.
-1. If the condition is critical or worsening, follow [[synthesis-emergency-shutdown]] and escalate.
-1. If the issue is a maintenance event, route through [[penanganan-perbaikan-mesin]], [[maintenance-types]], and [[pje-permintaan-jasa-engineering]].
+1. If the condition is critical or worsening, follow [[engineering/emergency-shutdown]] and escalate.
+1. If the issue is a maintenance event, route through [[engineering/penanganan-perbaikan-mesin]], [[engineering/maintenance-types]], and [[engineering/permintaan-jasa-engineering]].
 1. Verify recovery through repeated monitoring and document the result.
 ## Escalation
 | Condition | Escalates To |
 |---|---|
 | Critical area parameter out of control | Supervisor Engineering and QA |
 | Equipment shutdown required | Supervisor Engineering, then Manager Engineering |
-| Spare part decision required | Manager Engineering via [[spare-parts-management]] |
+| Spare part decision required | Manager Engineering via [[engineering/spare-parts-management]] |
 | Change or modification needed | Manager Engineering and QA via change-control route |
 | Personnel safety concern | Supervisor Engineering and HSSE/K3 |
 ## Evidence / Output
@@ -64,13 +67,13 @@ Each diagnosis should produce:
 - form or record used;
 - verification result after correction.
 ## Related pages
-- [[hvac-system]]
-- [[operasi-perawatan-hvac]]
-- [[operasi-perawatan-bms-ems]]
-- [[synthesis-daily-monitoring]]
-- [[synthesis-emergency-shutdown]]
-- [[engineering-responsibilities]]
-- [[maintenance-types]]
-- [[penanganan-perbaikan-mesin]]
-- [[pje-permintaan-jasa-engineering]]
-- [[spare-parts-management]]
+- [[engineering/hvac-system]]
+- [[engineering/operasional-sistem-hvac]]
+- [[engineering/monitoring-bms-ems]]
+- [[engineering/monitoring-harian-engineering]]
+- [[engineering/emergency-shutdown]]
+- [[engineering/engineering-responsibilities]]
+- [[engineering/maintenance-types]]
+- [[engineering/penanganan-perbaikan-mesin]]
+- [[engineering/permintaan-jasa-engineering]]
+- [[engineering/spare-parts-management]]

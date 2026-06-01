@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["maintenance", "onboarding"]
+---
 ## LLM Summary
 - System: Penanganan Perbaikan Mesin
 - Equipment: Mesin produksi, mesin utility, label status mesin, formulir breakdown
@@ -51,7 +54,7 @@ Digunakan Departemen Engineering untuk penanganan dan perbaikan mesin utility, p
 - Operator/pemegang alat membuat laporan ke Engineering via formulir breakdown
 - Teknisi Engineering menangani dan mencatat di kartu riwayat mesin
 ### Permintaan Jasa Engineering (PJE)
-Lihat [[pje-permintaan-jasa-engineering]] untuk detail proses.
+Lihat [[engineering/permintaan-jasa-engineering]] untuk detail proses.
 ### Pekerjaan Vendor
 - Diberi label khusus "Sedang Diperbaiki oleh Vendor"
 - Engineering memantau progress pekerjaan vendor
@@ -71,6 +74,10 @@ Prosedur khusus berlaku untuk mesin yang perlu dipindahkan keluar area GMP untuk
 ## Related pages
 - [[penanganan-perbaikan-mesin]]
 - [[maintenance-types]]
-- [[pje-permintaan-jasa-engineering]]
+- [[engineering/permintaan-jasa-engineering]]
 - [[spare-parts-management]]
 - [[engineering-responsibilities]]
+- [[cross-functional/alur-mutu-qa-engineering]]
+- [[qa/manajemen-perubahan]]
+- [[qa/penanganan-deviasi]]
+- [[qa/manajemen-capa]]

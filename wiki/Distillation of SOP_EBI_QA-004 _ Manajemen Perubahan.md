@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:01
 
 ---
 
+﻿---
+tags: ["change-control", "maintenance"]
+---
 **Summary**: Prosedur manajemen perubahan PT EBI yang mencakup pembuatan, kajian risiko, kategori (Kritikal/Mayor/Minor), persetujuan, dan penutupan change control untuk semua perubahan yang terkait mutu produk dan aktivitas GMP/GDP/GLP.
 **Sources**: `SOP-EBI-QA-004.04 SOP Change Control (1).pdf`
 **SOP Number**: SOP/EBI/QA-004
@@ -107,8 +110,19 @@ QA Manager penutupan (closure) CC
 |---|---|
 | SOP/EBI/QA-004-L05 | Formulir Change Control (utama) |
 | SOP/EBI/QA-004-L07 | Penentuan Awal Kategori Change Control |
+## Hubungan dengan SOP Engineering
+Change Control menjadi rujukan QA untuk perubahan teknis Engineering yang dapat memengaruhi status validasi, kualitas produk, fasilitas, sistem, atau peralatan.
+| Situasi Engineering | Halaman Terkait | Catatan QA |
+|---|---|---|
+| Modifikasi mesin, utility, atau parameter operasi | [[engineering/preventive-maintenance-mesin]], [[engineering/penanganan-perbaikan-mesin]] | Evaluasi apakah perubahan memerlukan CC sebelum implementasi permanen |
+| Perubahan spesifikasi spare part kritikal | [[engineering/spare-parts-management]], [[engineering/pengelolaan-suku-cadang]] | Perubahan spesifikasi dari original part harus dikaji dampaknya terhadap kualitas |
+| Pekerjaan improvement atau permintaan modifikasi via PJE | [[engineering/permintaan-jasa-engineering]] | PJE bukan pengganti CC jika perubahan berdampak GMP/validasi |
+| Perubahan EMS/BMS, HVAC, udara tekan, air, atau sistem kritis | [[engineering/monitoring-bms-ems]], [[engineering/operasional-sistem-hvac]], [[engineering/operasional-udara-tekan]], [[engineering/sistem-pengolahan-air]] | Perubahan sistem kritis perlu kajian risiko dan persetujuan lintas fungsi |
 ## Related pages
-- [[sop-qa-008-deviasi]]
-- [[sop-qa-035-capa]]
-- [[engineering-responsibilities]]
-- [[spare-parts-management]]
+- [[qa/penanganan-deviasi]]
+- [[qa/manajemen-capa]]
+- [[cross-functional/alur-mutu-qa-engineering]]
+- [[engineering/engineering-responsibilities]]
+- [[engineering/spare-parts-management]]
+- [[engineering/permintaan-jasa-engineering]]
+- [[engineering/preventive-maintenance-mesin]]

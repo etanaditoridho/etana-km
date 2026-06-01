@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["electrical", "emergency", "hvac", "maintenance"]
+---
 ## LLM Summary
 - System: Sistem Kelistrikan
 - Equipment: Panel listrik, MDP, SDP, grounding, genset, UPS
@@ -76,8 +79,8 @@ Inspeksi tahanan grounding dilakukan secara berkala menggunakan earth tester.
 - **Gangguan produksi**: pemadaman daya yang tidak terencana
 - **Kerusakan peralatan**: tegangan tidak stabil atau surge
 ## Related pages
-- [[penanganan-lampu-distribusi-listrik]]
+- [[engineering/lampu-dan-distribusi-listrik]]
 - [[maintenance-types]]
 - [[engineering-responsibilities]]
-- [[synthesis-daily-monitoring]]
-- [[synthesis-emergency-shutdown]]
+- [[engineering/monitoring-harian-engineering]]
+- [[engineering/emergency-shutdown]]

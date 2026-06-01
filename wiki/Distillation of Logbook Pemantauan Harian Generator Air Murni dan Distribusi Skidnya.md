@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["electrical", "hvac", "hvac-bms", "monitoring", "water-system"]
+---
 **Summary**: Formulir logbook untuk pemantauan harian terhadap generator air murni (PW) dan sistem distribusi skidnya yang dilakukan dalam 3 shift.
 **SOP Number**: SOP/EBI/EN-015-F01H
 **Revision**: —
@@ -75,5 +78,5 @@ Pemantauan meliputi semua parameter kritis dari sistem generator air murni dan d
 ## Related pages
 - [[engineering-responsibilities]]
 - [[compressed-air-system]]
-- [[building-maintenance-overview]]
+- [[engineering/perawatan-gedung-infrastruktur]]
 - [[maintenance-types]]

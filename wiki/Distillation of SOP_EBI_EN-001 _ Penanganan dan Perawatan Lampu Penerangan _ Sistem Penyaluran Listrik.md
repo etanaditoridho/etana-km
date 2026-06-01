@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+---
+tags: ["electrical", "hvac", "maintenance", "onboarding"]
+---
 ## LLM Summary
 - System: Sistem Kelistrikan
 - Equipment: Lampu penerangan, panel distribusi, grounding, genset, UPS

@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["change-control", "filling", "hvac", "maintenance", "onboarding", "spare-parts"]
+---
 ## LLM Summary
 - System: Manajemen Suku Cadang Engineering
 - Equipment: Critical part, non-critical part, part code, stok suku cadang
@@ -71,6 +74,9 @@ Setiap kali spesifikasi spare parts **kritikal** diubah (berbeda dari spesifikas
 ## Related pages
 - [[pengelolaan-suku-cadang]]
 - [[maintenance-types]]
-- [[pje-permintaan-jasa-engineering]]
+- [[engineering/permintaan-jasa-engineering]]
 - [[engineering-responsibilities]]
 - [[penanganan-perbaikan-mesin]]
+- [[cross-functional/alur-mutu-qa-engineering]]
+- [[qa/manajemen-perubahan]]
+- [[qa/manajemen-capa]]

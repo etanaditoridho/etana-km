@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+---
+tags: ["cold-chain", "compressed-air", "hvac-bms", "maintenance", "monitoring", "onboarding"]
+---
 ## LLM Summary
 - System: Sistem Udara Tekan
 - Equipment: Kompresor, refrigerant dryer, desiccant dryer, filter, receiver tank

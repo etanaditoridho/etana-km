@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["onboarding", "spare-parts"]
+---
 **Summary**: Panduan untuk melaksanakan pengelolaan suku cadang agar dapat dipergunakan sebagaimana mestinya dan menjamin stok dari suku cadang yang utama.
 **SOP Number**: SOP/EBI/EN-005
 **Revision**: 03
@@ -79,5 +82,5 @@ Pelaksanaan SOP ini mencakup gudang suku cadang di Departemen Engineering.
 ## Related pages
 - [[spare-parts-management]]
 - [[engineering-responsibilities]]
-- [[machine-repair-workflow]]
-- [[building-maintenance-overview]]
+- [[engineering/penanganan-perbaikan-mesin]]
+- [[engineering/perawatan-gedung-infrastruktur]]

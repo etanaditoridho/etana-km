@@ -2,10 +2,13 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-05-31 05:17
+**Exported:** 2026-06-01 06:02
 
 ---
 
+﻿---
+tags: ["deviation", "hvac-bms", "maintenance", "monitoring", "onboarding"]
+---
 ## LLM Summary
 - System: EMS / BMS
 - Equipment: EMS, BMS, sensor, alat ukur, sistem monitoring gedung
@@ -50,7 +53,10 @@ Digunakan Departemen Engineering khususnya teknisi EMS & BMS. Mencakup sistem pe
 SOP ini adalah versi pertama (Revision 00) — dokumen baru. Dibuat untuk mendukung sistem pemantauan gedung yang terintegrasi dengan sistem HVAC.
 ## Related pages
 - [[hvac-system]]
-- [[hvac-failure-diagnosis]]
+- [[decision-support/diagnosis-kegagalan-hvac]]
 - [[maintenance-types]]
 - [[engineering-responsibilities]]
-- [[operasi-perawatan-hvac]]
+- [[engineering/operasional-sistem-hvac]]
+- [[cross-functional/alur-mutu-qa-engineering]]
+- [[qa/manajemen-perubahan]]
+- [[qa/penanganan-deviasi]]
