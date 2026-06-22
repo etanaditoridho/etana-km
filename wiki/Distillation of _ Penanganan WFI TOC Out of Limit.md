@@ -2,7 +2,7 @@
 
 **Status:**   
 **Kategori:**   
-**Exported:** 2026-06-21 06:00
+**Exported:** 2026-06-22 06:28
 
 ---
 
