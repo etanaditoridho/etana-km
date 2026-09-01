@@ -5169,3 +5169,43 @@
 - 📚 Concept: Matriks Tanggung Jawab Engineering
 - 📚 Concept: Sistem Kelistrikan — Konsep & Komponen
 - 📚 Concept: Sistem Udara Tekan — Konsep & Komponen
+
+## Backup 2026-09-01 06:01
+- Distillation of SOP/EBI/QA-008 — Penanganan Penyimpangan
+- Distillation of SOP/EBI/QA-004 — Manajemen Perubahan
+- Distillation of SOP/EBI/QA-035 — Penanganan dan Manajemen CAPA
+- Distillation of 🔬 Penanganan WFI TOC Out of Limit
+- Distillation of SOP/EBI/EN-015 — Pengoperasian dan Perawatan Sistem Pengolahan Air
+- Distillation of PJE — Permintaan Jasa Engineering
+- Distillation of Penanganan dan Perbaikan Terhadap Semua Mesin-Mesin di PT. Etana Biotechnologies Indonesia
+- Distillation of Perawatan Terhadap Semua Mesin-Mesin di PT. Etana Biotechnologies Indonesia
+- Distillation of Pemantauan Harian Terhadap Generator Air Murni dan Distribusi Skidnya
+- Distillation of Sistem Pengelolaan dan Penyimpanan Pelumas dan Grease
+- Distillation of SOP/EBI/EN-013 — Pengoperasian dan Perawatan Sistem Udara Tekan
+- Distillation of SOP/EBI/EN-016 — Pengoperasian dan Perawatan Sistem HVAC
+- Distillation of Onboarding Teknisi Engineering Baru
+- Distillation of Monitoring Harian Sistem Engineering
+- Distillation of SOP/EBI/EN-055 — Pengoperasian dan Perawatan Sistem EMS & BMS
+- Distillation of Perawatan Terhadap Mesin Filling
+- Distillation of Perawatan Terhadap Mesin Filling Bosch FXS 2051
+- Distillation of Perawatan Terhadap Mesin Debagging Tofflon
+- Distillation of Logbook Pemantauan Harian Generator Air Murni dan Distribusi Skidnya
+- Distillation of SOP/EBI/EN-001 — Penanganan dan Perawatan Lampu Penerangan & Sistem Penyaluran Listrik
+- Distillation of Penyimpanan dan Pengelolaan Suku Cadang
+- Distillation of Pengoperasian dan Perawatan Terhadap Generator Set
+- Distillation of Prosedur Emergency Shutdown
+- Distillation of Boiler Leak Response
+- Distillation of HVAC Failure Diagnosis
+- Distillation of QA-Engineering Quality Event Flow
+- 📚 Concept: Manajemen Suku Cadang Engineering
+- Distillation of SOP/EBI/EN-004 — Perawatan Terhadap Semua Mesin di PT Etana Biotechnologies Indonesia
+- Distillation of SOP/EBI/EN-044 — Perawatan Mesin Filling
+- Distillation of Perawatan Gedung & Infrastruktur
+- Distillation of SOP/EBI/EN-005 — Penyimpanan dan Pengelolaan Suku Cadang
+- Distillation of SOP/EBI/EN-014 — Penanganan dan Perbaikan Semua Mesin di PT Etana Biotechnologies Indonesia
+- 📚 Concept: Jenis-Jenis Perawatan Mesin
+- 📚 Concept: Sistem HVAC — Konsep & Komponen
+- 📍 Finding: TEST — Kompresor trip saat suhu ambient tinggi
+- 📚 Concept: Matriks Tanggung Jawab Engineering
+- 📚 Concept: Sistem Kelistrikan — Konsep & Komponen
+- 📚 Concept: Sistem Udara Tekan — Konsep & Komponen
